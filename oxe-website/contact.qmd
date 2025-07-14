@@ -1,0 +1,10 @@
+title: "Contact"
+format: html
+
+---
+
+## Get in Touch
+
+- 📧 Email: oxe@purdue.edu  
+- 📍 Location: Forney Hall of Chemical Engineering  
+- 📱 Social: [Instagram](https://instagram.com/yourclub) | [LinkedIn](https://linkedin.com/yourclub)
