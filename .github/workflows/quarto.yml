@@ -1,0 +1,27 @@
+name: Render Quarto site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v1
+        with:
+          version: '1.2.335'
+
+      - name: Render Site
+        run: quarto render
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
