@@ -1,0 +1,8 @@
+---
+title: "Welcome to Omega Chi Epsilon"
+format: html
+---
+
+# Welcome!
+
+This is the new home page for Purdue’s Chemical Engineering Honors Society.
