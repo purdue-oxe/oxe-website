@@ -2,8 +2,17 @@ project:
   type: website
 
 website:
-  title: "Omega Chi Epsilon – Purdue"
+  title: "Omega Chi Epsilon - Purdue"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        href: index.qmd
+      - text: Events
+        href: events.qmd
+      - text: Members
+        href: members.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    left: "© 2025 Omega Chi Epsilon - Zeta Chapter"
+    right: "Site built with [Quarto](https://quarto.org)"
