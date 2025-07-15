@@ -39,21 +39,21 @@
     "href": "oxe-website/about.html",
     "title": "About Us",
     "section": "",
-    "text": "Omega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. Founded at Purdue University in 1942, our chapter promotes excellence in chemical engineering through scholarship, leadership, service, and character.\n\n\n\nPromote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service\n\n\n\n\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+    "text": "&lt;img src=\"https://engineering.purdue.edu/Engr/_assets/images/organizations/oxe-logo.png\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;About Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Purdue University Chapter&lt;/p&gt;"
   },
   {
     "objectID": "oxe-website/about.html#our-purpose",
     "href": "oxe-website/about.html#our-purpose",
     "title": "About Us",
-    "section": "",
-    "text": "Promote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service"
+    "section": "Our Purpose",
+    "text": "Our Purpose\n\nPromote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service"
   },
   {
     "objectID": "oxe-website/about.html#chapter-values",
     "href": "oxe-website/about.html#chapter-values",
     "title": "About Us",
-    "section": "",
-    "text": "&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+    "section": "Chapter Values",
+    "text": "Chapter Values\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "oxe-website/about.html#our-purpose-1",
