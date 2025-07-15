@@ -4,14 +4,14 @@
     "href": "oxe-website/members.html",
     "title": "Our Members",
     "section": "",
-    "text": "title: “Members” format: html\n\n\nOur Members\nMeet the brilliant minds of our chapter. (This page can list executive board members, general members, and alumni.)"
+    "text": "title: “Members” format: html\n\n\n\n&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Our Members&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Meet the brilliant minds of our chapter&lt;/p&gt;\n\n\n\nOur Members\nMeet the brilliant minds of our chapter. (This page can list executive board members, general members, and alumni.)"
   },
   {
     "objectID": "oxe-website/gallery.html",
     "href": "oxe-website/gallery.html",
     "title": "Gallery",
     "section": "",
-    "text": "Gallery\n\n\n\n&lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded shadow-sm\" alt=\"Chapter Event\"&gt;"
+    "text": "title: “Gallery” format: html\n\n\n\n&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Gallery&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Photos from our events and chapter life&lt;/p&gt;\n\n\n\nGallery\n\n\n\n&lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded shadow-sm\" alt=\"Chapter Event\"&gt;"
   },
   {
     "objectID": "oxe-website/contact.html",
@@ -39,7 +39,7 @@
     "href": "oxe-website/about.html",
     "title": "About Us",
     "section": "",
-    "text": "&lt;img src=\"https://engineering.purdue.edu/Engr/_assets/images/organizations/oxe-logo.png\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;About Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Purdue University Chapter&lt;/p&gt;"
+    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;About Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Purdue University Chapter&lt;/p&gt;"
   },
   {
     "objectID": "oxe-website/about.html#our-purpose",
@@ -56,25 +56,11 @@
     "text": "Chapter Values\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
   },
   {
-    "objectID": "oxe-website/about.html#our-purpose-1",
-    "href": "oxe-website/about.html#our-purpose-1",
-    "title": "About Us",
-    "section": "Our Purpose",
-    "text": "Our Purpose\n\nPromote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service"
-  },
-  {
-    "objectID": "oxe-website/about.html#chapter-values-1",
-    "href": "oxe-website/about.html#chapter-values-1",
-    "title": "About Us",
-    "section": "Chapter Values",
-    "text": "Chapter Values\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
-  },
-  {
     "objectID": "oxe-website/events.html",
     "href": "oxe-website/events.html",
     "title": "Upcoming Events",
     "section": "",
-    "text": "title: “Events” format: html\n\n\nUpcoming Events"
+    "text": "title: “Events” format: html\n\n\n\n&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Events&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;See what's happening at OXE!&lt;/p&gt;\n\n\n\nUpcoming Events"
   },
   {
     "objectID": "oxe-website/index.html",
