@@ -37,23 +37,37 @@
   {
     "objectID": "oxe-website/about.html",
     "href": "oxe-website/about.html",
-    "title": "About Us",
+    "title": "About Omega Chi Epsilon - Purdue Chapter",
     "section": "",
-    "text": "Omega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. Founded at Purdue University in 1942, our chapter promotes excellence in chemical engineering through scholarship, leadership, service, and character.\n\n\n\nPromote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service\n\n\n\n\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+    "text": "title: “About Us” format: html # About Omega Chi Epsilon - Purdue Chapter\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. Founded at Purdue University in 1942, our chapter promotes excellence in chemical engineering through scholarship, leadership, service, and character."
   },
   {
     "objectID": "oxe-website/about.html#our-purpose",
     "href": "oxe-website/about.html#our-purpose",
-    "title": "About Us",
-    "section": "",
-    "text": "Promote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service"
+    "title": "About Omega Chi Epsilon - Purdue Chapter",
+    "section": "Our Purpose",
+    "text": "Our Purpose\n\nPromote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service"
   },
   {
     "objectID": "oxe-website/about.html#chapter-values",
     "href": "oxe-website/about.html#chapter-values",
-    "title": "About Us",
-    "section": "",
-    "text": "&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+    "title": "About Omega Chi Epsilon - Purdue Chapter",
+    "section": "Chapter Values",
+    "text": "Chapter Values\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "oxe-website/about.html#our-purpose-1",
+    "href": "oxe-website/about.html#our-purpose-1",
+    "title": "About Omega Chi Epsilon - Purdue Chapter",
+    "section": "Our Purpose",
+    "text": "Our Purpose\n\nPromote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service"
+  },
+  {
+    "objectID": "oxe-website/about.html#chapter-values-1",
+    "href": "oxe-website/about.html#chapter-values-1",
+    "title": "About Omega Chi Epsilon - Purdue Chapter",
+    "section": "Chapter Values",
+    "text": "Chapter Values\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Character&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We value strong moral character and ethical behavior in all our members.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Integrity&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;Integrity is at the core of our academic and professional pursuits.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card h-100 shadow-sm\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Leadership&lt;/h5&gt;\n    &lt;p class=\"card-text\"&gt;We encourage leadership and initiative in service to the community.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "oxe-website/events.html",
@@ -67,6 +81,6 @@
     "href": "oxe-website/index.html",
     "title": "Welcome to Omega Chi Epsilon - Purdue Chapter",
     "section": "",
-    "text": "&lt;img src=\"https://engineering.purdue.edu/Engr/_assets/images/organizations/oxe-logo.png\" alt=\"OXE Logo\" style=\"max-width: 180px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-4 fw-bold mb-3\"&gt;Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-4\"&gt;Purdue University Chapter&lt;br&gt;Honor Society for Chemical Engineering&lt;/p&gt;\n&lt;a href=\"members.html\" class=\"btn btn-light btn-lg me-2\"&gt;Meet Our Members&lt;/a&gt;\n&lt;a href=\"events.html\" class=\"btn btn-outline-light btn-lg\"&gt;Upcoming Events&lt;/a&gt;\n\n\n\nWelcome to Omega Chi Epsilon - Purdue Chapter\n\n\n\n&lt;h2 class=\"mb-4\"&gt;Thanks to our sponsors!&lt;/h2&gt;\n&lt;div class=\"row justify-content-center\"&gt;\n  &lt;div class=\"col-md-4 mb-3\"&gt;\n    &lt;div class=\"card h-100 shadow-sm p-3\"&gt;\n      &lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded mb-2\" alt=\"Sponsor Example\"&gt;\n      &lt;p class=\"mb-0\"&gt;Interested in sponsoring? &lt;a href=\"mailto:purdueoxe@gmail.com\"&gt;Contact us&lt;/a&gt; to learn more!&lt;/p&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n  &lt;!-- Add more sponsors as needed --&gt;\n&lt;/div&gt;\n\n\ntitle: “Welcome” format: html\n\n\n\nWelcome to Omega Chi Epsilon - Purdue Chapter\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. We promote excellence in chemical engineering through scholarship, leadership, service, and character."
+    "text": "&lt;img src=\"https://engineering.purdue.edu/Engr/_assets/images/organizations/oxe-logo.png\" alt=\"OXE Logo\" style=\"max-width: 180px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-4 fw-bold mb-3\"&gt;Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-4\"&gt;Purdue University Chapter&lt;br&gt;Honor Society for Chemical Engineering&lt;/p&gt;\n&lt;a href=\"members.html\" class=\"btn btn-light btn-lg me-2\"&gt;Meet Our Members&lt;/a&gt;\n&lt;a href=\"events.html\" class=\"btn btn-outline-light btn-lg\"&gt;Upcoming Events&lt;/a&gt;\n\n\n\nWelcome to Omega Chi Epsilon - Purdue Chapter\n\n\n\n&lt;h2 class=\"mb-4\"&gt;Thanks to our sponsors!&lt;/h2&gt;\n&lt;div class=\"row justify-content-center\"&gt;\n  &lt;div class=\"col-md-4 mb-3\"&gt;\n    &lt;div class=\"card h-100 shadow-sm p-3\"&gt;\n      &lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded mb-2\" alt=\"Sponsor Example\"&gt;\n      &lt;p class=\"mb-0\"&gt;Interested in sponsoring? &lt;a href=\"mailto:purdueoxe@gmail.com\"&gt;Contact us&lt;/a&gt; to learn more!&lt;/p&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n  &lt;!-- Add more sponsors as needed --&gt;\n&lt;/div&gt;\n\n\ntitle: “Welcome” format: html\n\n\n\nWelcome to Omega Chi Epsilon - Zeta Chapter\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. We promote excellence in chemical engineering through scholarship, leadership, service, and character."
   }
 ]
