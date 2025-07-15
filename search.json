@@ -2,9 +2,9 @@
   {
     "objectID": "oxe-website/members.html",
     "href": "oxe-website/members.html",
-    "title": "Our Members",
+    "title": "Members",
     "section": "",
-    "text": "title: “Members” format: html\n\n\n\n&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Our Members&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Meet the brilliant minds of our chapter&lt;/p&gt;\n\n\n\nOur Members\nMeet the brilliant minds of our chapter. (This page can list executive board members, general members, and alumni.)"
+    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Our Members&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Meet the brilliant minds of our chapter&lt;/p&gt;\n\n\n\nOur Members\nMeet the brilliant minds of our chapter. (This page can list executive board members, general members, and alumni.)"
   },
   {
     "objectID": "oxe-website/gallery.html",
