@@ -1,0 +1,23 @@
+---
+title: "Gallery"
+format: html
+---
+
+<!-- Parallax Hero Section for Gallery Page -->
+<div class="parallax-hero">
+  <div class="container text-center text-white py-5">
+    <img src="images/OxeLogo.jpg" alt="OXE Logo" style="max-width: 140px; margin-bottom: 1rem;" class="img-fluid rounded shadow-sm">
+    <h1 class="display-5 fw-bold mb-3">Gallery</h1>
+    <p class="lead mb-0">Photos from our events and chapter life</p>
+  </div>
+</div>
+
+# Gallery
+
+<!-- Add your chapter photos below. Replace the example images with your own. -->
+<div class="row">
+  <div class="col-md-4 mb-4">
+    <img src="https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png" class="img-fluid rounded shadow-sm" alt="Chapter Event">
+  </div>
+  <!-- Add more images as needed -->
+</div>

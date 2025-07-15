@@ -2,23 +2,16 @@
   {
     "objectID": "oxe-website/members.html",
     "href": "oxe-website/members.html",
-    "title": "Our Members",
+    "title": "Members",
     "section": "",
-    "text": "title: “Members” format: html\n\n\nOur Members\nMeet the brilliant minds of our chapter. (This page can list executive board members, general members, and alumni.)"
+    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Our Members&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Meet the brilliant minds of our chapter&lt;/p&gt;\n\n\n\nOur Members\nMeet the brilliant minds of our chapter. (This page can list executive board members, general members, and alumni.)"
   },
   {
-    "objectID": "oxe-website/events.html",
-    "href": "oxe-website/events.html",
-    "title": "Upcoming Events",
+    "objectID": "oxe-website/gallery.html",
+    "href": "oxe-website/gallery.html",
+    "title": "Gallery",
     "section": "",
-    "text": "title: “Events” format: html\n\n\nUpcoming Events"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Omega Chi Epsilon",
-    "section": "",
-    "text": "Welcome!\nThis is the new home page for Purdue’s Chemical Engineering Honors Society."
+    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Gallery&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Photos from our events and chapter life&lt;/p&gt;\n\n\n\nGallery\n\n\n\n&lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded shadow-sm\" alt=\"Chapter Event\"&gt;"
   },
   {
     "objectID": "oxe-website/contact.html",
@@ -32,13 +25,48 @@
     "href": "oxe-website/contact.html#get-in-touch",
     "title": "Omega Chi Epsilon - Purdue",
     "section": "Get in Touch",
-    "text": "Get in Touch\n\n📧 Email: oxe@purdue.edu\n\n📍 Location: Forney Hall of Chemical Engineering\n\n📱 Social: Instagram | LinkedIn"
+    "text": "Get in Touch\n\n\n&lt;h5 class=\"card-title mb-3\"&gt;Contact Omega Chi Epsilon&lt;/h5&gt;\n&lt;p class=\"mb-2\"&gt;&lt;i class=\"bi bi-envelope\"&gt;&lt;/i&gt; &lt;a href=\"mailto:purdueoxe@gmail.com\"&gt;purdueoxe@gmail.com&lt;/a&gt;&lt;/p&gt;\n&lt;p class=\"mb-2\"&gt;&lt;i class=\"bi bi-geo-alt\"&gt;&lt;/i&gt; Forney Hall of Chemical Engineering&lt;/p&gt;\n&lt;div class=\"mb-2\"&gt;\n  &lt;i class=\"bi bi-people\"&gt;&lt;/i&gt; Social:\n  &lt;a href=\"https://www.facebook.com/groups/240523369320025/\" target=\"_blank\" title=\"Facebook\" class=\"ms-2 me-1\"&gt;&lt;i class=\"bi bi-facebook\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;a href=\"https://www.instagram.com/purdueoxe/?hl=en\" target=\"_blank\" title=\"Instagram\" class=\"me-1\"&gt;&lt;i class=\"bi bi-instagram\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;a href=\"https://www.youtube.com/channel/UC_rCy7yYSIZdEkUMfWocPLg\" target=\"_blank\" title=\"YouTube\" class=\"me-1\"&gt;&lt;i class=\"bi bi-youtube\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;a href=\"https://twitter.com/search?q=purdueoxe&src=typd&lang=en\" target=\"_blank\" title=\"X (Twitter)\" class=\"me-1\"&gt;&lt;i class=\"bi bi-twitter-x\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;a href=\"https://www.linkedin.com/groups/7066650/\" target=\"_blank\" title=\"LinkedIn\"&gt;&lt;i class=\"bi bi-linkedin\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;/div&gt;\n&lt;a href=\"mailto:purdueoxe@gmail.com\" class=\"btn btn-primary mt-3\"&gt;&lt;i class=\"bi bi-envelope\"&gt;&lt;/i&gt; Email Us&lt;/a&gt;\n\n\n\nTip: You can also reach out to us on any of our social platforms!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Omega Chi Epsilon",
+    "section": "",
+    "text": "Welcome!\nThis is the new home page for Purdue’s Chemical Engineering Honors Society."
+  },
+  {
+    "objectID": "oxe-website/about.html",
+    "href": "oxe-website/about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;About Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Purdue University Chapter&lt;/p&gt;"
+  },
+  {
+    "objectID": "oxe-website/about.html#our-purpose",
+    "href": "oxe-website/about.html#our-purpose",
+    "title": "About Us",
+    "section": "Our Purpose",
+    "text": "Our Purpose\n\nPromote high scholarship\nEncourage original investigation in chemical engineering\nRecognize character, integrity, and leadership\nAdvocate and support community service"
+  },
+  {
+    "objectID": "oxe-website/about.html#chapter-values",
+    "href": "oxe-website/about.html#chapter-values",
+    "title": "About Us",
+    "section": "Chapter Values",
+    "text": "Chapter Values\n\n\n\nCharacter\nWe value strong moral character and ethical behavior in all our members.\n\n\n\n\nIntegrity\nIntegrity is at the core of our academic and professional pursuits.\n\n\n\n\nLeadership\nWe encourage leadership and initiative in service to the community."
+  },
+  {
+    "objectID": "oxe-website/events.html",
+    "href": "oxe-website/events.html",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "title: “Events” format: html\n\n\n\n&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Events&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;See what's happening at OXE!&lt;/p&gt;\n\n\n\nUpcoming Events"
   },
   {
     "objectID": "oxe-website/index.html",
     "href": "oxe-website/index.html",
-    "title": "Welcome to Omega Chi Epsilon - Purdue Chapter",
+    "title": "Welcome",
     "section": "",
-    "text": "title: “Welcome” format: html\n\n\nWelcome to Omega Chi Epsilon - Purdue Chapter\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. We promote excellence in chemical engineering through scholarship, leadership, service, and character."
+    "text": "&lt;img src=\"https://engineering.purdue.edu/Engr/_assets/images/organizations/oxe-logo.png\" alt=\"OXE Logo\" style=\"max-width: 180px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-4 fw-bold mb-3\"&gt;Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-4\"&gt;Purdue University Chapter&lt;br&gt;Honor Society for Chemical Engineering&lt;/p&gt;\n&lt;a href=\"members.html\" class=\"btn btn-light btn-lg me-2\"&gt;Meet Our Members&lt;/a&gt;\n&lt;a href=\"events.html\" class=\"btn btn-outline-light btn-lg\"&gt;Upcoming Events&lt;/a&gt;\n\n\n\nWelcome to Omega Chi Epsilon - Purdue Chapter\n\n\n\n&lt;h2 class=\"mb-4\"&gt;Thanks to our sponsors!&lt;/h2&gt;\n&lt;div class=\"row justify-content-center\"&gt;\n  &lt;div class=\"col-md-4 mb-3\"&gt;\n    &lt;div class=\"card h-100 shadow-sm p-3\"&gt;\n      &lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded mb-2\" alt=\"Sponsor Example\"&gt;\n      &lt;p class=\"mb-0\"&gt;Interested in sponsoring? &lt;a href=\"mailto:purdueoxe@gmail.com\"&gt;Contact us&lt;/a&gt; to learn more!&lt;/p&gt;\n    &lt;/div&gt;\n\nWelcome to Omega Chi Epsilon - Zeta Chapter\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. We promote excellence in chemical engineering through scholarship, leadership, service, and character."
   }
 ]

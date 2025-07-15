@@ -1,7 +1,14 @@
 title: "Events"
 format: html
 
----
+<!-- Parallax Hero Section for Events Page -->
+<div class="parallax-hero">
+  <div class="container text-center text-white py-5">
+    <img src="images/OxeLogo.jpg" alt="OXE Logo" style="max-width: 140px; margin-bottom: 1rem;" class="img-fluid rounded shadow-sm">
+    <h1 class="display-5 fw-bold mb-3">Events</h1>
+    <p class="lead mb-0">See what's happening at OXE!</p>
+  </div>
+</div>
 
 # Upcoming Events
 

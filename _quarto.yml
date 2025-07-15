@@ -1,18 +1,29 @@
 project:
   type: website
 
+
 website:
   title: "Omega Chi Epsilon - Purdue"
+  site-url: "https://purdue-oxe.github.io/oxe-website/"
   navbar:
+    logo: oxe-website/images/OxeLogo.jpg
     left:
-      - text: Home
-        href: index.qmd
+      - text: About
+        href: oxe-website/about.html
       - text: Events
-        href: events.qmd
+        href: oxe-website/events.html
       - text: Members
-        href: members.qmd
+        href: oxe-website/members.html
+      - text: Gallery
+        href: oxe-website/gallery.html
       - text: Contact
-        href: contact.qmd
+        href: oxe-website/contact.html
   page-footer:
     left: "© 2025 Omega Chi Epsilon - Zeta Chapter"
     right: "Site built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: lux
+    allow-html: true
+    css: styles.css

@@ -1,0 +1,46 @@
+---
+title: "About Us"
+format: html
+---
+
+<!-- Parallax Hero Section for About Page -->
+<div class="parallax-hero">
+  <div class="container text-center text-white py-5">
+    <img src="images/OxeLogo.jpg" alt="OXE Logo" style="max-width: 140px; margin-bottom: 1rem;" class="img-fluid rounded shadow-sm">
+    <h1 class="display-5 fw-bold mb-3">About Omega Chi Epsilon</h1>
+    <p class="lead mb-0">Purdue University Chapter</p>
+  </div>
+</div>
+
+# About Omega Chi Epsilon - Purdue Chapter
+
+Omega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. Founded at Purdue University in 1942, our chapter promotes excellence in chemical engineering through scholarship, leadership, service, and character.
+
+## Our Purpose
+- Promote high scholarship
+- Encourage original investigation in chemical engineering
+- Recognize character, integrity, and leadership
+- Advocate and support community service
+
+## Chapter Values
+
+:::: {.grid .mt-4}
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .shadow-sm .text-center}
+#### Character
+We value strong moral character and ethical behavior in all our members.
+:::
+:::
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .shadow-sm .text-center}
+#### Integrity
+Integrity is at the core of our academic and professional pursuits.
+:::
+:::
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .shadow-sm .text-center}
+#### Leadership
+We encourage leadership and initiative in service to the community.
+:::
+:::
+::::
