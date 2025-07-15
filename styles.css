@@ -1,6 +1,6 @@
 /* Parallax header background for .parallax-hero */
 .parallax-hero {
-  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80'); /* Example background */
+  background-image: url('https://unsplash.com/photos/a-large-tall-tower-with-a-clock-on-the-side-of-a-tree-Uif_I-OD4qI'); /* Example background */
   min-height: 350px;
   background-attachment: fixed;
   background-position: center;
