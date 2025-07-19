@@ -30,9 +30,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Omega Chi Epsilon",
+    "title": "\nOmega Chi Epsilon\n",
     "section": "",
-    "text": "Welcome!\nThis is the new home page for Purdue’s Chemical Engineering Honors Society."
+    "text": "title: “Welcome to Omega Chi Epsilon” format: html"
+  },
+  {
+    "objectID": "index.html#about-us",
+    "href": "index.html#about-us",
+    "title": "\nOmega Chi Epsilon\n",
+    "section": "About Us",
+    "text": "About Us\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. Our chapter promotes excellence in chemical engineering through scholarship, leadership, service, and character."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "\nOmega Chi Epsilon\n",
+    "section": "Quick Links",
+    "text": "Quick Links\n\n\nAbout\n\n\nEvents\n\n\nMembers\n\n\nContact"
+  },
+  {
+    "objectID": "index.html#upcoming-events",
+    "href": "index.html#upcoming-events",
+    "title": "\nOmega Chi Epsilon\n",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\nStay tuned for upcoming chapter events!\n\n\n\n\nFall Welcome Social\nDate: August 25, 2025\nJoin us for food, games, and networking with fellow ChemE students!\n\n\n\n\nProfessional Development Night\nDate: September 10, 2025\nResume tips, interview practice, and alumni Q&A."
   },
   {
     "objectID": "oxe-website/about.html",
