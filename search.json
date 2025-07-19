@@ -4,21 +4,21 @@
     "href": "oxe-website/members.html",
     "title": "Members",
     "section": "",
-    "text": "&lt;img src=\"images/belltower.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Our Members&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Meet the brilliant minds of our chapter&lt;/p&gt;\n\n\n\nOur Members\nMeet the brilliant minds of our chapter.\n\n\n\n Dagan Knight\nPresident\n\n\n\n\n Lily Crouse\nVice President\n\n\n\n\n Seth Allen\nTreasurer\n\n\n\n\n Abby Hoekstra\nSecretary\n\n\n\n\n Dylann Volz\nPhilanthropy Director\n\n\n\n\n Kirah Knobel\nPhilanthropy Director"
+    "text": "Our Members\n\n\nMeet the brilliant minds of our chapter\n\n\n\nOur Members\nMeet the brilliant minds of our chapter.\n\n\n\n Dagan Knight\nPresident\n\n\n\n\n Lily Crouse\nVice President\n\n\n\n\n Seth Allen\nTreasurer\n\n\n\n\n Abby Hoekstra\nSecretary\n\n\n\n\n Dylann Volz\nPhilanthropy Director\n\n\n\n\n Kirah Knobel\nPhilanthropy Director"
   },
   {
     "objectID": "oxe-website/gallery.html",
     "href": "oxe-website/gallery.html",
     "title": "Gallery",
     "section": "",
-    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Gallery&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Photos from our events and chapter life&lt;/p&gt;\n\n\n\nGallery\n\n\n\n&lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded shadow-sm\" alt=\"Chapter Event\"&gt;"
+    "text": "Gallery\n\n\nPhotos from our events and chapter life\n\n\n\nGallery\n\n\n\n&lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded shadow-sm\" alt=\"Chapter Event\"&gt;"
   },
   {
     "objectID": "oxe-website/contact.html",
     "href": "oxe-website/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "&lt;img src=\"images/belltower.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Contact Us&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Get in touch with our chapter&lt;/p&gt;"
+    "text": "Get in touch with our chapter"
   },
   {
     "objectID": "oxe-website/contact.html#get-in-touch",
@@ -39,7 +39,7 @@
     "href": "oxe-website/about.html",
     "title": "About Us",
     "section": "",
-    "text": "&lt;div class=\"container text-center text-white py-5\" style=\"background: rgba(0,0,0,0.4); border-radius: 1rem;\"&gt;\n  &lt;img src=\"images/belltower.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n  &lt;h1 class=\"display-5 fw-bold mb-3\"&gt;About OXE&lt;/h1&gt;\n  &lt;p class=\"lead mb-0\"&gt;Learn more about our chapter's values and mission&lt;/p&gt;\n&lt;/div&gt;\n\n## About Omega Chi Epsilon Purdue University Chapter"
+    "text": "&lt;img src=\"images/oxelogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;About OXE&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Learn more about our chapter's values and mission&lt;/p&gt;\n\n## About Omega Chi Epsilon Purdue University Chapter"
   },
   {
     "objectID": "oxe-website/about.html#our-purpose",
@@ -60,14 +60,7 @@
     "href": "oxe-website/events.html",
     "title": "Events",
     "section": "",
-    "text": "&lt;img src=\"images/belltower.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Events&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;See what's happening at OXE!&lt;/p&gt;\n\n\n\nUpcoming Events"
-  },
-  {
-    "objectID": "oxe-website/index.html",
-    "href": "oxe-website/index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "![](/oxe-website/images/belltower.jpg){width=160 style=\"margin-bottom:1rem;\"}\n\n# Omega Chi Epsilon\n**Purdue University Chapter**\n\n[Join Us](contact.html){.btn .btn-primary .btn-lg}"
+    "text": "Events\n\n\nSee what’s happening at OXE!\n\n\n\nUpcoming Events"
   },
   {
     "objectID": "oxe-website/index.html#upcoming-events",
