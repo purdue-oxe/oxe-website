@@ -2,28 +2,28 @@
   {
     "objectID": "oxe-website/members.html",
     "href": "oxe-website/members.html",
-    "title": "Members",
+    "title": "\nOur Members\n",
     "section": "",
     "text": "Our Members\n\n\nMeet the brilliant minds of our chapter\n\n\n\nOur Members\nMeet the brilliant minds of our chapter.\n\n\n\n Dagan Knight\nPresident\n\n\n\n\n Lily Crouse\nVice President\n\n\n\n\n Seth Allen\nTreasurer\n\n\n\n\n Abby Hoekstra\nSecretary\n\n\n\n\n Dylann Volz\nPhilanthropy Director\n\n\n\n\n Kirah Knobel\nPhilanthropy Director"
   },
   {
     "objectID": "oxe-website/gallery.html",
     "href": "oxe-website/gallery.html",
-    "title": "Gallery",
+    "title": "\nGallery\n",
     "section": "",
     "text": "Gallery\n\n\nPhotos from our events and chapter life\n\n\n\nGallery\n\n\n\n&lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded shadow-sm\" alt=\"Chapter Event\"&gt;"
   },
   {
     "objectID": "oxe-website/contact.html",
     "href": "oxe-website/contact.html",
-    "title": "Contact",
+    "title": "\nContact Us\n",
     "section": "",
     "text": "Get in touch with our chapter"
   },
   {
     "objectID": "oxe-website/contact.html#get-in-touch",
     "href": "oxe-website/contact.html#get-in-touch",
-    "title": "Contact",
+    "title": "\nContact Us\n",
     "section": "Get in Touch",
     "text": "Get in Touch\n\n\n\nContact Omega Chi Epsilon\nEmail: purdueoxe@gmail.com\nLocation: Forney Hall of Chemical Engineering\nSocial:\n      \n Email Us\n\n\n\n\nTip: You can also reach out to us on any of our social platforms!"
   },
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "\nOmega Chi Epsilon\n",
     "section": "",
-    "text": "title: “Welcome to Omega Chi Epsilon” format: html"
+    "text": "Purdue University Chemical Engineering Honor Society"
   },
   {
     "objectID": "index.html#about-us",
@@ -79,35 +79,35 @@
   {
     "objectID": "oxe-website/events.html",
     "href": "oxe-website/events.html",
-    "title": "Events",
+    "title": "\nEvents\n",
     "section": "",
     "text": "Events\n\n\nSee what’s happening at OXE!\n\n\n\nUpcoming Events"
   },
   {
     "objectID": "oxe-website/index.html#upcoming-events",
     "href": "oxe-website/index.html#upcoming-events",
-    "title": "Welcome",
+    "title": "\nOmega Chi Epsilon\n",
     "section": "Upcoming Events",
     "text": "Upcoming Events\n\n\n\nGeneral Meeting\nDate: August 25, 2025\nLocation: Forney Hall, Room 101\n\n\n\n\nSocial Night\nDate: September 10, 2025\nLocation: Harry’s Chocolate Shop\n\n\n\n\nIndustry Speaker\nDate: September 22, 2025\nLocation: Forney Hall, Room 202"
   },
   {
     "objectID": "oxe-website/index.html#meet-the-officers",
     "href": "oxe-website/index.html#meet-the-officers",
-    "title": "Welcome",
+    "title": "\nOmega Chi Epsilon\n",
     "section": "Meet the Officers",
     "text": "Meet the Officers\n\n\n\n Alex Kim\nPresident\n\n\n\n\n Taylor Smith\nVice President\n\n\n\n\n Jordan Lee\nTreasurer\n\n\n\n\n Morgan Patel\nSecretary"
   },
   {
     "objectID": "oxe-website/index.html#our-sponsors",
     "href": "oxe-website/index.html#our-sponsors",
-    "title": "Welcome",
+    "title": "\nOmega Chi Epsilon\n",
     "section": "Our Sponsors",
     "text": "Our Sponsors\n\n\n\n Acme Chemical\n\n\n\n\n Purdue Engineering\n\n\n\n\n Local Donors"
   },
   {
     "objectID": "oxe-website/index.html#connect-with-us",
     "href": "oxe-website/index.html#connect-with-us",
-    "title": "Welcome",
+    "title": "\nOmega Chi Epsilon\n",
     "section": "Connect With Us",
     "text": "Connect With Us\n\n    \n\n\n© 2025 Omega Chi Epsilon - Zeta Chapter | Site built with Quarto"
   }
