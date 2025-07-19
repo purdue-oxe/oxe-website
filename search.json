@@ -67,6 +67,34 @@
     "href": "oxe-website/index.html",
     "title": "Welcome",
     "section": "",
-    "text": "&lt;img src=\"https://engineering.purdue.edu/Engr/_assets/images/organizations/oxe-logo.png\" alt=\"OXE Logo\" style=\"max-width: 180px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-4 fw-bold mb-3\"&gt;Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-4\"&gt;Purdue University Chapter&lt;br&gt;Honor Society for Chemical Engineering&lt;/p&gt;\n&lt;a href=\"members.html\" class=\"btn btn-light btn-lg me-2\"&gt;Meet Our Members&lt;/a&gt;\n&lt;a href=\"events.html\" class=\"btn btn-outline-light btn-lg\"&gt;Upcoming Events&lt;/a&gt;\n\n\n\nWelcome to Omega Chi Epsilon - Purdue Chapter\n\n\n\n&lt;h2 class=\"mb-4\"&gt;Thanks to our sponsors!&lt;/h2&gt;\n&lt;div class=\"row justify-content-center\"&gt;\n  &lt;div class=\"col-md-4 mb-3\"&gt;\n    &lt;div class=\"card h-100 shadow-sm p-3\"&gt;\n      &lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded mb-2\" alt=\"Sponsor Example\"&gt;\n      &lt;p class=\"mb-0\"&gt;Interested in sponsoring? &lt;a href=\"mailto:purdueoxe@gmail.com\"&gt;Contact us&lt;/a&gt; to learn more!&lt;/p&gt;\n    &lt;/div&gt;\n\nWelcome to Omega Chi Epsilon - Zeta Chapter\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. We promote excellence in chemical engineering through scholarship, leadership, service, and character."
+    "text": "&lt;img src=\"https://engineering.purdue.edu/Engr/_assets/images/organizations/oxe-logo.png\" alt=\"OXE Logo\" style=\"max-width: 180px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-4 fw-bold mb-3\"&gt;Omega Chi Epsilon&lt;/h1&gt;\n&lt;p class=\"lead mb-4\"&gt;Purdue University Chapter&lt;br&gt;Honor Society for Chemical Engineering&lt;/p&gt;\n&lt;a href=\"members.html\" class=\"btn btn-light btn-lg me-2\"&gt;Meet Our Members&lt;/a&gt;\n&lt;a href=\"events.html\" class=\"btn btn-outline-light btn-lg\"&gt;Upcoming Events&lt;/a&gt;"
+  },
+  {
+    "objectID": "oxe-website/index.html#upcoming-events",
+    "href": "oxe-website/index.html#upcoming-events",
+    "title": "Welcome",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\n\n\nGeneral Meeting\nDate: August 25, 2025\nLocation: Forney Hall, Room 101\n\n\n\n\nSocial Night\nDate: September 10, 2025\nLocation: Harry’s Chocolate Shop\n\n\n\n\nIndustry Speaker\nDate: September 22, 2025\nLocation: Forney Hall, Room 202"
+  },
+  {
+    "objectID": "oxe-website/index.html#meet-the-officers",
+    "href": "oxe-website/index.html#meet-the-officers",
+    "title": "Welcome",
+    "section": "Meet the Officers",
+    "text": "Meet the Officers\n\n\n\n Alex Kim\nPresident\n\n\n\n\n Taylor Smith\nVice President\n\n\n\n\n Jordan Lee\nTreasurer\n\n\n\n\n Morgan Patel\nSecretary"
+  },
+  {
+    "objectID": "oxe-website/index.html#our-sponsors",
+    "href": "oxe-website/index.html#our-sponsors",
+    "title": "Welcome",
+    "section": "Our Sponsors",
+    "text": "Our Sponsors\n\n\n\n Acme Chemical\n\n\n\n\n Purdue Engineering\n\n\n\n\n Local Donors"
+  },
+  {
+    "objectID": "oxe-website/index.html#connect-with-us",
+    "href": "oxe-website/index.html#connect-with-us",
+    "title": "Welcome",
+    "section": "Connect With Us",
+    "text": "Connect With Us\n\n    \n\n\n© 2025 Omega Chi Epsilon - Zeta Chapter | Site built with Quarto\n\n\n\n\n&lt;h2 class=\"mb-4\"&gt;Thanks to our sponsors!&lt;/h2&gt;\n&lt;div class=\"row justify-content-center\"&gt;\n  &lt;div class=\"col-md-4 mb-3\"&gt;\n    &lt;div class=\"card h-100 shadow-sm p-3\"&gt;\n      &lt;img src=\"https://static.wixstatic.com/media/ecff59_48941a3fb67d4bc3b164d8fbbbddf4db~mv2.png/v1/fill/w_758,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/Screenshot%202024-09-13%20114641.png\" class=\"img-fluid rounded mb-2\" alt=\"Sponsor Example\"&gt;\n      &lt;p class=\"mb-0\"&gt;Interested in sponsoring? &lt;a href=\"mailto:purdueoxe@gmail.com\"&gt;Contact us&lt;/a&gt; to learn more!&lt;/p&gt;\n    &lt;/div&gt;\n\nWelcome to Omega Chi Epsilon - Zeta Chapter\nOmega Chi Epsilon (ΟΧΕ) is the National Honor Society for Chemical Engineering students. We promote excellence in chemical engineering through scholarship, leadership, service, and character."
   }
 ]
