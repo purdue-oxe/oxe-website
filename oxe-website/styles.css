@@ -1,6 +1,6 @@
 /* OXE custom color palette based on logo colors */
+
 :root {
-  --oxe-blue: #003366;
   --oxe-gold: #FFD700;
   --oxe-white: #FFFFFF;
   --oxe-black: #222222;
@@ -10,21 +10,21 @@
 
 body {
   background-color: var(--oxe-gray);
-  color: var(--oxe-blue);
+  color: var(--oxe-black);
 }
 
 .navbar, .card-header, .btn-primary {
-  background-color: var(--oxe-blue) !important;
-  color: var(--oxe-gold) !important;
+  background-color: var(--oxe-gold) !important;
+  color: var(--oxe-black) !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--oxe-blue);
+  color: var(--oxe-black);
 }
 
 .card {
   background-color: var(--oxe-white);
-  border: 1px solid var(--oxe-blue);
+  border: 1px solid var(--oxe-gold);
 }
 
 .card .card-title, .card .card-text {
@@ -33,23 +33,23 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-outline-primary {
   border-color: var(--oxe-gold);
-  color: var(--oxe-blue);
+  color: var(--oxe-black);
 }
 
 .btn-outline-primary:hover, .btn-primary:hover {
-  background-color: var(--oxe-gold) !important;
-  color: var(--oxe-blue) !important;
+  background-color: var(--oxe-red) !important;
+  color: var(--oxe-white) !important;
 }
 
 footer {
-  background-color: var(--oxe-blue);
-  color: var(--oxe-gold);
+  background-color: var(--oxe-gold);
+  color: var(--oxe-black);
 }
 
 /* Accent color for highlights */
 .mark, .badge {
   background-color: var(--oxe-gold);
-  color: var(--oxe-blue);
+  color: var(--oxe-black);
 }
 
 /* Optional: add red accent for special elements */
