@@ -18,7 +18,7 @@
     "href": "oxe-website/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Contact Us&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Get in touch with OXE at Purdue&lt;/p&gt;"
+    "text": "&lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n&lt;h1 class=\"display-5 fw-bold mb-3\"&gt;Contact Us&lt;/h1&gt;\n&lt;p class=\"lead mb-0\"&gt;Get in touch with our chapter&lt;/p&gt;"
   },
   {
     "objectID": "oxe-website/contact.html#get-in-touch",
@@ -39,7 +39,7 @@
     "href": "oxe-website/about.html",
     "title": "About Us",
     "section": "",
-    "text": "## About Omega Chi Epsilon Purdue University Chapter"
+    "text": "&lt;div class=\"container text-center text-white py-5\" style=\"background: rgba(0,0,0,0.4); border-radius: 1rem;\"&gt;\n  &lt;img src=\"images/OxeLogo.jpg\" alt=\"OXE Logo\" style=\"max-width: 140px; margin-bottom: 1rem;\" class=\"img-fluid rounded shadow-sm\"&gt;\n  &lt;h1 class=\"display-5 fw-bold mb-3\"&gt;About OXE&lt;/h1&gt;\n  &lt;p class=\"lead mb-0\"&gt;Learn more about our chapter's values and mission&lt;/p&gt;\n&lt;/div&gt;\n\n## About Omega Chi Epsilon Purdue University Chapter"
   },
   {
     "objectID": "oxe-website/about.html#our-purpose",
